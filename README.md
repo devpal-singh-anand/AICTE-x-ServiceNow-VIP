@@ -8,9 +8,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/devpal-singh-anand/AICTE-x-ServiceNow-VIP?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/devpal-singh-anand/AICTE-x-ServiceNow-VIP?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/devpal-singh-anand/AICTE-x-ServiceNow-VIP?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/devpal-singh-anand/AICTE-x-ServiceNow-VIP?style=for-the-badge)
 
-### [LinkedIn](https://www.linkedin.com/in/devpal-singh-anand) · [GitHub](https://github.com/devpal-singh-anand)
+### [LinkedIn](https://www.linkedin.com/in/devpal-singh-anand) • [GitHub](https://github.com/devpal-singh-anand)
 
 </div>
 
@@ -22,34 +22,35 @@ Welcome!
 
 This repository documents my complete learning journey throughout the **AICTE × ServiceNow Virtual Internship Program (VIP)**.
 
-Instead of keeping personal notes, I decided to build this repository as a public learning journal where I document everything I learn—from platform fundamentals to advanced ServiceNow concepts. My goal is to create a structured knowledge base that helps reinforce my own understanding while also serving as a helpful resource for anyone beginning their ServiceNow journey.
+Instead of keeping my notes private, I chose to document everything publicly—from platform fundamentals to more advanced ServiceNow concepts. The objective is to reinforce my own understanding while creating a structured knowledge base that may also help other beginners starting their ServiceNow journey.
 
-Every learning session is documented in detail, including concepts, practical demonstrations, observations, and personal reflections.
+Each day includes detailed notes, concepts, practical demonstrations, observations, and personal reflections from the internship.
 
 ---
 
 # 🎯 Objectives
 
-- Document my internship learning every day.
-- Build a structured ServiceNow knowledge base.
-- Reinforce concepts through documentation.
-- Learn publicly and stay consistent.
-- Create a portfolio that showcases my growth throughout the internship.
+- 📘 Document my internship learning every day.
+- 📝 Build a structured ServiceNow knowledge base.
+- 🚀 Learn in public and stay consistent.
+- 💡 Reinforce concepts through documentation.
+- 🌱 Track my progress throughout the internship.
 
 ---
 
 # 🗓️ Internship Timeline
 
-| Date | Progress |
-|-------|----------|
+| Date | Milestone |
+|------|-----------|
 | **08 July 2026** | Foundation & Environment Setup |
 | **09 July 2026** | Official Technical Learning Begins |
+| **10 July 2026** | Tables, Fields, Dictionaries & Dot Walking |
 
 ---
 
 # 🏁 Foundation Day (08 July 2026)
 
-Before beginning the technical sessions, the internship started with the onboarding process.
+Before the technical sessions began, the internship started with the onboarding process.
 
 During this session, I:
 
@@ -59,22 +60,35 @@ During this session, I:
 - ✅ Understood the internship structure.
 - ✅ Explored the available learning resources.
 
-This setup prepared the environment for the technical learning sessions that officially began on **09 July 2026**.
+This laid the foundation for the technical sessions that officially began on **09 July 2026**.
 
 ---
 
 # 🎓 Assigned Learning
 
-As part of the internship, we were introduced to the learning resources available on **ServiceNow University**.
+Alongside the live internship sessions, we were introduced to the learning resources available through **ServiceNow University**.
 
 ### Current Assigned Course
 
-- ✅ Welcome to ServiceNow *(3 Hours 15 Minutes)*
+- ✅ Welcome to ServiceNow *(Approx. 3 Hours 15 Minutes)*
 
-### Upcoming Learning
+---
 
-- ⏳ ServiceNow Micro Certification
-- ⏳ ServiceNow Fundamentals On Demand
+## 📚 Official ServiceNow Learning Path
+
+| Order | Course | Status |
+|------|--------|--------|
+| 1 | [Welcome to ServiceNow](./Courses/01-Welcome-to-ServiceNow.md) | ✅ |
+| 2 | [Welcome to ServiceNow Micro-Certification](./Courses/02-Welcome-to-ServiceNow-Micro-Certification.md) | ⏳ |
+| 3 | [ServiceNow Administration Fundamentals On Demand](./Courses/03-ServiceNow-Administration-Fundamentals-On-Demand.md) | ⏳ |
+
+---
+
+## 📂 Courses
+
+- 📘 [Welcome to ServiceNow](./Courses/01-Welcome-to-ServiceNow.md)
+- 🏅 [Welcome to ServiceNow Micro-Certification](./Courses/02-Welcome-to-ServiceNow-Micro-Certification.md)
+- ⚙️ [ServiceNow Administration Fundamentals On Demand](./Courses/03-ServiceNow-Administration-Fundamentals-On-Demand.md)
 
 ---
 
@@ -85,96 +99,62 @@ AICTE-x-ServiceNow-VIP
 │
 ├── README.md
 │
+├── Courses
+│   ├── 01-Welcome-to-ServiceNow.md
+│   ├── 02-Welcome-to-ServiceNow-Micro-Certification.md
+│   └── 03-ServiceNow-Administration-Fundamentals-On-Demand.md
+│
 ├── Day01
 │   └── Day01.md
 │
 ├── Day02
-│   └── Day02.md
-│
-├── Day03
-│   └── Day03.md
+│   └── day02.md
 │
 └── ...
 ```
 
 ---
 
-# 📚 Daily Learning Journal
+# 📚 Learning Journal
 
-| Day | Topics | Status |
-|------|--------|--------|
-| Day 01 | Platform Overview, Users, Groups, Roles, Incident Basics | ✅ |
-| Day 02 | Coming Soon | ⏳ |
-| Day 03 | Coming Soon | ⏳ |
+| Day | Date | Status |
+|------|------|--------|
+| [Day 01](./Day01/Day01.md) | 09 Jul 2026 | ✅ Completed |
+| [Day 02](./Day02/day02.md) | 10 Jul 2026 | ✅ Completed |
+| Day 03 | — | ⏳ Coming Soon |
+| ... | ... | ... |
 
----
-
-# 🛠️ Topics Covered
-
-Throughout this internship, I'll be learning and documenting topics such as:
-
-- ServiceNow Platform
-- Navigation
-- Tables
-- Records
-- Forms
-- Users (`sys_user`)
-- Groups (`sys_user_group`)
-- Roles (`sys_user_role`)
-- Applications
-- Modules
-- Incident Management
-- Change Management
-- Problem Management
-- Service Catalog
-- CMDB
-- Knowledge Base
-- Client Scripts
-- Business Rules
-- Script Includes
-- UI Policies
-- Data Policies
-- Flow Designer
-- IntegrationHub
-- REST APIs
-- GlideRecord
-- ACLs
-- Workflows
-- Reporting & Dashboards
-- Automation
-- Best Practices
+This repository will continue to grow throughout the internship as I document each day's learning, practical exercises, and reflections.
 
 ---
 
 # 📈 Learning Philosophy
 
-This repository is not intended to be a copy of official documentation.
+This repository is **not intended to replace the official ServiceNow documentation**.
 
-Instead, it represents my own understanding of the concepts I learn during the internship, explained through notes, practical examples, and reflections.
-
-As my knowledge grows, these notes will continue to improve and expand.
+Instead, it captures **my personal understanding** of the concepts covered during the internship. Explaining and documenting concepts in my own words helps reinforce learning while creating a useful reference that I can revisit in the future.
 
 ---
 
 # 🌱 Why I'm Building This Publicly
 
-Learning becomes much more effective when concepts are documented and shared.
+I believe that documenting what I learn is one of the best ways to retain knowledge.
 
-By maintaining this repository, I hope to:
+By maintaining this repository, I aim to:
 
-- Stay accountable.
-- Track my own progress.
-- Create useful revision material.
-- Help fellow beginners who are starting their ServiceNow journey.
+- Stay accountable throughout the internship.
+- Track my learning journey over time.
+- Build a structured revision resource.
+- Share practical notes that may help fellow learners.
 
 ---
 
-# ⭐ Progress
+# 📊 Progress
 
 ```text
-Foundation Setup     ██████████ 100%
+Foundation Setup        ██████████ 100%
 
-Internship Progress  █░░░░░░░░░  1%
+Internship Progress     █░░░░░░░░░   1%
 ```
 
 ---
@@ -183,17 +163,17 @@ Internship Progress  █░░░░░░░░░  1%
 
 If you're also learning ServiceNow or have suggestions that could improve these notes, feel free to connect or share your insights.
 
-Learning together is always better than learning alone.
+Learning is always better when shared with a community.
 
-**LinkedIn:** [linkedin.com/in/devpal-singh-anand](https://www.linkedin.com/in/devpal-singh-anand)
-**GitHub:** [github.com/devpal-singh-anand](https://github.com/devpal-singh-anand)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/devpal-singh-anand
+- 💻 **GitHub:** https://github.com/devpal-singh-anand
 
 ---
 
 <div align="center">
 
-### ⭐ If you find this repository useful, consider giving it a star!
+### ⭐ If you find this repository helpful, consider giving it a star!
 
-**Happy Learning! 🚀**
+**Happy Learning & Happy Building! 🚀**
 
 </div>
