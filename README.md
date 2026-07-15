@@ -45,7 +45,9 @@ Each day includes detailed notes, concepts, practical demonstrations, observatio
 | **08 July 2026** | Foundation & Environment Setup |
 | **09 July 2026** | Official Technical Learning Begins |
 | **10 July 2026** | Tables, Fields, Dictionaries & Dot Walking |
-| **11 July 2026** | Tables Deep Dive, Schema Map & Access Control Lists (ACLs) |
+| **11 July 2026** | Import Sets, Transform Maps, Coalesce Fields & Plugins |
+| **13 July 2026** | CMDB and Knowledge Management Fundamentals |
+| **15 July 2026** | Service Catalog Fundamentals |
 
 ---
 
@@ -114,6 +116,15 @@ AICTE-x-ServiceNow-VIP
 ├── Day03
 │   └── day03.md
 │
+├── Day04
+│   └── day04.md
+│
+├── Day05
+│   └── day05.md
+│
+├── Day06
+│   └── day06.md
+│
 └── ...
 ```
 
@@ -126,7 +137,10 @@ AICTE-x-ServiceNow-VIP
 | [Day 01](./Day01/Day01.md) | 09 Jul 2026 | ✅ Completed |
 | [Day 02](./Day02/day02.md) | 10 Jul 2026 | ✅ Completed |
 | [Day 03](./Day03/day03.md) | 11 Jul 2026 | ✅ Completed |
-| Day 04 | — | ⏳ Coming Soon |
+| [Day 04](./Day04/day04.md) | 11 Jul 2026 | ✅ Completed |
+| [Day 05](./Day05/day05.md) | 13 Jul 2026 | ✅ Completed |
+| [Day 06](./Day06/day06.md) | 15 Jul 2026 | ✅ Completed |
+| Day 07 | — | ⏳ Coming Soon |
 | ... | ... | ... |
 
 This repository will continue to grow throughout the internship as I document each day's learning, practical exercises, and reflections.
@@ -159,7 +173,7 @@ By maintaining this repository, I aim to:
 ```text
 Foundation Setup        ██████████ 100%
 
-Internship Progress     █░░░░░░░░░  15%
+Internship Progress     ███░░░░░░░  30%
 ```
 
 ---
